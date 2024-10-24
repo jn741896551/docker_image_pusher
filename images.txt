@@ -5,5 +5,6 @@ alenx/walle-python:2.1
 mysql:latest
 jenkins/jenkins:latest
 redis:4.0.1
+dyrnq/open-webui:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
