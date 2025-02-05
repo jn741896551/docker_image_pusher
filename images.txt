@@ -1,11 +1,11 @@
-nginx
+#nginx
 #支持私库
-alenx/walle-web:2.1
-alenx/walle-python:2.1
-mysql:latest
-jenkins/jenkins:latest
-redis:4.0.1
-dyrnq/open-webui:latest
+#alenx/walle-web:2.1
+#alenx/walle-python:2.1
+#mysql:latest
+#jenkins/jenkins:latest
+#redis:4.0.1
+#dyrnq/open-webui:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/jaspeen/oracle-xe-11g:latest
+docker.io/jaspeen/oracle-xe-11g
