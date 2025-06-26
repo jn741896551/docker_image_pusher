@@ -10,3 +10,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #docker.io/jaspeen/oracle-xe-11g:2
 minio/minio:RELEASE.2025-06-13T11-33-47Z
+milvusdb/milvus:v2.5.13
