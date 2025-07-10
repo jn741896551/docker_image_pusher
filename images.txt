@@ -13,6 +13,7 @@
 #milvusdb/milvus:v2.5.13
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.6.0-rc1-gpu
-prom/prometheus:v2.45.0
-grafana/grafana:10.1.0
+#prom/prometheus:v2.45.0
+#grafana/grafana:10.1.0
+zilliz/attu:v2.5.10
 
